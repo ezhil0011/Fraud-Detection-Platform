@@ -1,4 +1,4 @@
-# 🚨 Fraud Detection Platform
+# Fraud Detection Platform
 
 A **Machine Learning powered Fraud Detection System** that analyzes financial transactions and predicts whether a transaction is fraudulent or legitimate in real-time.
 
@@ -6,18 +6,18 @@ This project demonstrates how **AI, APIs, and a web dashboard** can be combined 
 
 ---
 
-# 📌 Features
+# Features
 
-* 🔍 **Real-Time Fraud Detection** using Machine Learning
-* ⚡ **FastAPI Backend** for fraud prediction API
-* 📊 **Interactive Dashboard** for testing transactions
-* 🧠 **Random Forest ML Model** trained on transaction data
-* 🌐 **REST API Endpoint** for fraud prediction
-* 💻 **React Frontend Dashboard**
+*  **Real-Time Fraud Detection** using Machine Learning
+*  **FastAPI Backend** for fraud prediction API
+*  **Interactive Dashboard** for testing transactions
+*  **Random Forest ML Model** trained on transaction data
+*  **REST API Endpoint** for fraud prediction
+*  **React Frontend Dashboard**
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 ```
 User Transaction
@@ -37,7 +37,7 @@ Fraud Prediction
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 fraud-detection-platform
@@ -65,9 +65,9 @@ fraud-detection-platform
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
-## 1️⃣ Clone the Repository
+## 1️ Clone the Repository
 
 ```
 git clone https://github.com/yourusername/fraud-detection-platform.git
@@ -76,7 +76,7 @@ cd fraud-detection-platform
 
 ---
 
-# 🧠 Train the Machine Learning Model
+#  Train the Machine Learning Model
 
 Run:
 
@@ -92,7 +92,7 @@ backend/ml/model.pkl
 
 ---
 
-# 🚀 Start the Fraud Detection API
+#  Start the Fraud Detection API
 
 Run the FastAPI server:
 
@@ -108,7 +108,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 🖥 Start the Dashboard
+#  Start the Dashboard
 
 Go to the dashboard folder:
 
@@ -130,7 +130,7 @@ http://localhost:3000
 
 ---
 
-# 📡 API Endpoint
+#  API Endpoint
 
 ### POST `/predict`
 
@@ -156,7 +156,7 @@ Example response:
 
 ---
 
-# 📊 Machine Learning Model
+#  Machine Learning Model
 
 Algorithm used:
 
@@ -171,7 +171,7 @@ Features used:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 * Python
 * FastAPI
@@ -182,17 +182,17 @@ Features used:
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
-* 📊 Real-time fraud monitoring charts
-* 🌍 Fraud location heatmaps
-* ⚡ Transaction streaming using Kafka
-* 🐳 Docker containerization
-* ☁️ Cloud deployment
+*  Real-time fraud monitoring charts
+*  Fraud location heatmaps
+*  Transaction streaming using Kafka
+*  Docker containerization
+*  Cloud deployment
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the **MIT License**.
 
@@ -201,4 +201,12 @@ This project is licensed under the **MIT License**.
 # 👨‍💻 Author
 
 Developed as a **Machine Learning & Full-Stack Project** demonstrating real-time fraud detection systems used in financial technology platforms.
-# Fraud-Detection-Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # Fraud-Detection-Platform
